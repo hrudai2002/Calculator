@@ -2,7 +2,7 @@
 
 This is a simple arithmetic calculator built with REACT.JS library. 
 
-install or clone the repository
+download the Zip file or clone the repository
 
 go to cmd and click this commands to view the project
 
